@@ -1,2 +1,1 @@
-# IUS
-Projekt - Model informačního systému
+## Project: information system model
